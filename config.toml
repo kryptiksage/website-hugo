@@ -1,4 +1,4 @@
-baseURL = "https://hari-krishan.xyz"
+baseURL = "https://hari-krishan.xyz/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "I'm Hari"
@@ -6,7 +6,6 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
-disableKinds = ['taxonomyTerm']
 
 # Enable Disqus
 #disqusShortname = ""
